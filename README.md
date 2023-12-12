@@ -2,10 +2,10 @@
 <h3> This page is currently a work in progress<h3/>
 <h2>🤖 AI Projects:</h2>
   > <b>Data Analytics</b><br/>
-  > <b>Supervised Learning Algorithms from scratch</b><br/>
-  > <b>Neural Networks from Scratch</b><br/>
+  > <b><a href = "https://github.com/y-sood/supervisedmachinelearning">Supervised Learning Algorithms from scratch</a></b><br/>
+  > <b><a href = "https://github.com/y-sood/neuralnetwork">Neural Networks from Scratch</a></b><br/>
 <h2>🖥️ Computation Projects</h2>
-  > <b>Non-computable functions</b><br/>
+  > <b><a href = "https://github.com/y-sood/ncfunctions">Non-computable functions</a></b><br/>
   > <b>Monte Carlo simulations</b>
 <h2>⚙️ Mechanical Engineering Projects</h2>
   > <b>Steering knuckle for a double-wishbone suspension <br/>
