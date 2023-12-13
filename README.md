@@ -21,4 +21,4 @@
 [<img align="left" alt="Yashaswi | Mail" width="66px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 
 [linkedin]: https://linkedin.com/in/yashaswi-sood
-[mail]: yashaswisood@gmail.com
+[mail]: mailto:yashaswisood@gmail.com
