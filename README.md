@@ -2,8 +2,9 @@
 <h3> This page is currently a work in progress<h3/>
 
 <h2>🤖 AI Projects:</h2>
-  > <b><a href = "https://github.com/y-sood/supervisedmachinelearning">Supervised machine learning</a><br/>
-  > <a href = "https://github.com/y-sood/neuralnetwork">Deep learning</a></b><br/>
+  > <b><a href = "https://github.com/y-sood/supervisedmachinelearning">Regression</a><br/>
+  > <a href = "https://github.com/y-sood/neuralnetwork">Deep learning</a><br/>
+  > Unsupervised learning </b>
 <h2>🖥️ Computation Projects</h2>
   > <b><a href = "https://github.com/y-sood/ncfunctions">Non-computable functions</a></b><br/>
 <h2>⚙️ Mechanical Engineering Projects</h2>
