@@ -11,7 +11,7 @@
   >  Efficycle-2021 <br/>
   >  DFTB+ utility scripts </b><br/>
 <h2>🔀 Miscelleneous</h2>
-  > <b>Basic GUI Template</b><br/>
+  > <b>Basic GUI Template<br/>
   > Data Analytics</b><br/>
 <h2> 🤳 Connect with me:</h2>
 
