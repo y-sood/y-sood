@@ -2,15 +2,17 @@
 <h3> This page is currently a work in progress<h3/>
 
 <h2>🤖 AI Projects:</h2>
-  > <b><a href = "https://github.com/y-sood/supervisedmachinelearning">Regression</a><br/>
-  > <a href = "https://github.com/y-sood/neuralnetwork">Deep learning</a><br/>
-  > Unsupervised learning </b>
+  > <b><a href = "https://github.com/y-sood/kaggletitanic">Predicting the survival of passengers on the titanic</a><br/>
+  > <a href = "https://github.com/y-sood/kaggledigits">Guessing handwritten digits (MNIST)</a><br/>
+  > <a href = "https://github.com/y-sood/neuralnetwork">Coding a neural Network in Python</a><br/>
 <h2>🖥️ Computation Projects</h2>
-  > <b><a href = "https://github.com/y-sood/ncfunctions">Non-computable functions</a></b><br/>
+  > <b><a href = "https://github.com/y-sood/ncfunctions">Trying to compute non-computable functions</a></b><br/>
 <h2>⚙️ Mechanical Engineering Projects</h2>
-  > <b>Steering knuckle for a double-wishbone suspension <br/>
-  >  Efficycle-2021 <br/>
-  >  DFTB+ utility scripts </b><br/>
+  > <b>Steering knuckle for a double-wishbone suspension<br/>
+  >  Design and analysis of an Efficycle<br/>
+  >  Computational Material Science scripts<br/>
+  >  Hyperelastic gasket simulation<br/>
+  >  Mechatronics<br/>
 <h2>🔀 Miscelleneous</h2>
   > <b>Basic GUI Template<br/>
   > Data Analytics</b><br/>
