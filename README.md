@@ -1,5 +1,4 @@
 <h1>Hi, I'm Yashaswi! This is my portfolio👨‍💻 <br/>
-<h3> This page is currently a work in progress<h3/>
 
 <h2>🤖 AI Projects:</h2>
   > <b><a href = "https://github.com/y-sood/kaggletitanic">Predicting the survival of passengers on the titanic</a><br/>
