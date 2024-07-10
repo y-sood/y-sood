@@ -1,16 +1,18 @@
-<h1>Hi, I'm Yashaswi! This is my Github👨‍💻 <br/>
+<h1> Hi, I'm Yashaswi, this is my GitHub! 👨‍💻 </h1>
 
-<h2>🤖 AI Projects:</h2>
+<h2><p align="center"><strong>Highlights</strong></p></h2>
+<h3> ML Projects 🤖 </h2>
+- [Project 1](link-to-project-1): Short description or key feature </p>
+- [Project 2](link-to-project-2): Short description or key feature </p>
+- [Project 3](link-to-project-3): Short description or key feature </p>
 
-<h2>🖥️ Computation Projects</h2>
+<h3> Computation Projects 🖥️ </h2>
+- [Project 1](link-to-project-1): Short description or key feature </p>
+- [Project 2](link-to-project-2): Short description or key feature </p>
+- [Project 3](link-to-project-3): Short description or key feature </p>
 
-<h2>⚙️ Mechanical Engineering Projects</h2>
-
-<h2>🔀 Miscelleneous</h2>
-
-<h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Yashaswi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Yashaswi | Mail" width="66px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
-
-[linkedin]: https://linkedin.com/in/yashaswi-sood
-[mail]: mailto:yashaswisood@gmail.com
+<h2><p align="center"><strong>Others</strong></p></h2>
+<h3>⚙️ Mechanical Engineering Projects</h2>
+- [Project A](link-to-project-A): Short description or key feature </p>
+- [Project B](link-to-project-B): Short description or key feature </p>
+- [Project C](link-to-project-C): Short description or key feature </p>
