@@ -2,17 +2,12 @@
 
 <h2><p align="center"><strong>Highlights</strong></p></h2>
 <h3> ML Projects 🤖 </h2>
-- [Project 1](link-to-project-1): Short description or key feature </p>
-- [Project 2](link-to-project-2): Short description or key feature </p>
-- [Project 3](link-to-project-3): Short description or key feature </p>
-
-<h3> Computation Projects 🖥️ </h2>
-- [Project 1](link-to-project-1): Short description or key feature </p>
-- [Project 2](link-to-project-2): Short description or key feature </p>
-- [Project 3](link-to-project-3): Short description or key feature </p>
+<h4>-> Neural Network foundation</h4> Building a Neural network using numpy only and comparing various implementations.</p> 
+<h4>-> Diabetic Retinopathy Detection</h4> Using a CNN to detect presence of diabetes in a person using scans of their eyes. </p>
+<h4>-> MNIST Generator</h4> Using a GAN to generate digits akin to the MNIST dataset.</p>
+<h4>-> Fake News Detection</h4> Using a LSTM to differentiate between real and fake news. </p>
+<h4>-> Kaggle Competitions</h4> Submissions for various competitions on kaggle. </p>
 
 <h2><p align="center"><strong>Others</strong></p></h2>
 <h3>⚙️ Mechanical Engineering Projects</h2>
-- [Project A](link-to-project-A): Short description or key feature </p>
-- [Project B](link-to-project-B): Short description or key feature </p>
-- [Project C](link-to-project-C): Short description or key feature </p>
+<h3>🖥️ Computation Projects</h2>
