@@ -7,7 +7,7 @@
 <h4>-> Neural Network foundation</h4>
 <p>Building a Neural network using numpy only and comparing various implementations.</p> 
 
-<h4>-> Diabetic Retinopathy Detection</h4>
+<h4>-> <a href="https://github.com/y-sood/imageprocessing/tree/main/diabeticretnopathy">Diabetic Retinopathy Detection</a></h4>
 <p>Using a CNN to detect presence of diabetes in a person using scans of their eyes.</p>
 
 <h4>-> <a href="https://github.com/y-sood/generative/tree/main/mnistgen">MNIST Generator</a></h4>
