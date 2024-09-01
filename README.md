@@ -16,7 +16,7 @@
 <h4>-> <a href="https://github.com/y-sood/NLP/tree/main/fakenews">Fake News Detection</a></h4>
 <p>Using a LSTM to differentiate between real and fake news.</p>
 
-<h4>-> Kaggle Competitions</h4>
+<h4>-> <a href="https://github.com/y-sood/kaggle/tree/main/titanic"> Kaggle Competitions</a></h4>
 <p>Submissions for various competitions on Kaggle.</p>
 
 <h2><p align="center"><strong>Others</strong></p></h2>
