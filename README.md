@@ -4,7 +4,7 @@
 
 <h4>🛠️ Software Projects</h4>
 
-- Galaxy Particle Simulation
+- <a href = "https://github.com/y-sood/misc/tree/main/ecosystem-simulation/files" >Galaxy Particle Simulation</a>
 <p>Simulated a galaxy of particles interacting with each other in a dynamic environment.</p>
 
 - Ecosystem Simulation
