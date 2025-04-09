@@ -4,10 +4,10 @@
 
 <h4>🛠️ Software Projects</h4>
 
-- <a href = "https://github.com/y-sood/misc/tree/main/ecosystem-simulation/files" >Galaxy Particle Simulation</a>
+- Galaxy Particle Simulation
 <p>Simulated a galaxy of particles interacting with each other in a dynamic environment.</p>
 
-- Ecosystem Simulation
+- <a href = "https://github.com/y-sood/misc/tree/main/ecosystem-simulation/files" >Ecosystem Simulation</a>
 <p>A GUI-based system where multiple classes of moving balls interact with unique behaviors like merging, exploding, and reproducing.</p>
 
 <h4><a href="https://github.com/y-sood/ml-projects">🤖 ML Projects</a></h4>
