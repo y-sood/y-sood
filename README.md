@@ -1,42 +1,52 @@
-<h2> Hi, I'm Yashaswi, these are some of my projects! 👨‍💻 </h2>
+# Hi, I'm Yashaswi Sood 👋
 
-<h3><p align="center"><strong>Highlights</strong></p></h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/M.Sc.-Computational_Science-blue?style=for-the-badge&logo=uppsala-university" alt="M.Sc. Computational Science" />
+  <img src="https://img.shields.io/badge/Focus-HPC_%7C_CUDA_%7C_Machine_Learning-orange?style=for-the-badge" alt="Focus Areas" />
+  <img src="https://img.shields.io/badge/Location-Uppsala,_Sweden-green?style=for-the-badge&logo=google-maps" alt="Location" />
+</div>
 
-<h4>🛠️ Software Projects</h4>
+<br>
 
-- Galaxy Particle Simulation
-<p>Simulated a galaxy of particles interacting with each other in a dynamic environment.</p>
+I am a graduate student passionate about the mathematical and computational engines that drive advanced predictive systems and simulations. At the moment, I am working on my Master's Thesis, which aims to analyze uncertainty in Vision-Language Models and their embedding spaces, exploring how noise can actually improve their robustness.
 
-- <a href = "https://github.com/y-sood/misc/tree/main/ecosystem-simulation/files" >Ecosystem Simulation</a>
-<p>A GUI-based system where multiple classes of moving balls interact with unique behaviors like merging, exploding, and reproducing.</p>
+My journey here wasn't a straight line. I started out running structural simulations using Finite Element Methods, but quickly found myself more curious about what was happening under the hood. I wanted to understand the actual mechanics making those models tick, which led me to pull back the layers of the software and dive deep into numerical methods, high-performance computing, and the broader world of AI. Since then, I’ve been diving deeper into this space, from theory all the way down to hardware-level performance.
 
-<h4><a href="https://github.com/y-sood/ml-projects">🤖 ML Projects</a></h4>
+---
 
-- Neural Network Foundations
-<p>Built a complete neural network from scratch using only NumPy. Compared results with other standard implementations.</p> 
+## 🛠️ Technical Arsenal
 
-- MNIST Classifier (Alternate)
-<p>An alternate take on classifying handwritten digits from the MNIST dataset.</p>
+- **Machine Learning:** `PyTorch` | `OpenCLIP` | `Vision-Language Models` | `HuggingFace`
+- **Languages:** `C/C++` | `Python` | `CUDA` | `MATLAB` | `Bash/Shell`
+- **Parallel & HPC:** `MPI` | `OpenMP` | `Kokkos` | `cuBLAS` | `SLURM`
+- **DevOps & Cloud:** `Git` | `Jenkins` | `Ansible` | `AWS (EC2/S3)` *(Active Learner)*
 
-- Support Vector Machine in MATLAB
-<p>Implemented SVM for a classification task using MATLAB.</p>
+---
 
-<h4><a href = "https://github.com/y-sood/image-processing">🖼️ Image Processing</a></h4>
+## 🚀 Major Engineering Portfolios
 
-- Diabetic Retinopathy Detection
-<p>Used CNNs to detect signs of diabetic retinopathy in retinal images.</p>
+### ⚡ [Accelerated Computing & GPUs](https://github.com/y-sood/accelerators)
+*Engineering code for the silicon. Profiling caches, managing warps, and saturating memory bandwidth.*
 
-- MNIST Generator (DCGAN)
-<p>Generated MNIST-like digits using a Deep Convolutional GAN.</p>
+### 🌐 [HPC & Distributed Systems](https://github.com/y-sood/dist-hpc)
+*Scaling algorithms across NUMA nodes and distributed clusters.*
 
-- Multispectral Satellite Data Classifier
-<p>Classified satellite images using multispectral data inputs and deep learning techniques.</p>
+### 🧠 [Foundational ML Projects](https://github.com/y-sood/ml-projects)
+*We all start somewhere.*
 
-<h4>📊 Others</h4>
 
-- <a href = "https://github.com/y-sood/NLP"> Fake News Detection</a>
-<p>LSTM-based classifier to identify fake news articles based on textual input.</p>
+---
 
-<h4>⚙️ Mechanical Engineering Projects</h4>
-<p>Includes CAD models, thermodynamic analysis, and heat transfer simulations from undergrad.</p>
+## 🔬 Current Research & Thesis
+*Investigating embedding space geometry and uncertainty quantification.*
+- **Aleatoric vs. Epistemic Uncertainty:** Researching asymmetric noise tolerance in `aSymVLM` between text and image modalities.
+- **Sigmoid Loss Geometry:** Analysing why epistemic uncertainty estimators fail on SigLIP encoders. Diagnosing modality gap structures and normalizing flows.
 
+---
+
+## 🎸 Beyond the Terminal
+When I step away from `gprof` and `valgrind`, you can usually find me:
+- 🏋️‍♂️ **At the Gym:**
+- 🎸 **Producing Music:**
+
+<br>
