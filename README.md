@@ -39,8 +39,8 @@ My journey here wasn't a straight line. I started out running structural simulat
 
 ## 🔬 Current Research & Thesis
 *Investigating embedding space geometry and uncertainty quantification.*
-- **Aleatoric vs. Epistemic Uncertainty:** Researching asymmetric noise tolerance in `aSymVLM` between text and image modalities.
-- **Sigmoid Loss Geometry:** Analysing why epistemic uncertainty estimators fail on SigLIP encoders. Diagnosing modality gap structures and normalizing flows.
+- **Sigmoid Loss Geometry:**  Understanding the embedding space of SigLIP VLM and estimating its epistemic uncertainty.
+- [**Symmetric Tensor Diagonalisation:**](https://github.com/y-sood/symdiag/) Implementing a Jacobi-type method to diagonalise a symmetric tensor using compressed storage schemes.
 
 ---
 
