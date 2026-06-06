@@ -31,9 +31,11 @@ My journey here wasn't a straight line. I started out running structural simulat
 ### 🌐 [HPC & Distributed Systems](https://github.com/y-sood/dist-hpc)
 *Scaling algorithms across NUMA nodes and distributed clusters.*
 
-### 🧠 [Foundational ML Projects](https://github.com/y-sood/ml-projects)
-*We all start somewhere.*
+### 🧠 [ML Projects](https://github.com/y-sood/ml-projects)
+*The basics and some more*
 
+### 👀 [Miscelleneous](https://github.com/y-sood/misc/)
+*Stuff that does not belong anywhere else*
 
 ---
 
