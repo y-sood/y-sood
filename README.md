@@ -41,7 +41,7 @@ My journey here wasn't a straight line. I started out running structural simulat
 
 ## 🔬 Current Research & Thesis
 *Investigating embedding space geometry and uncertainty quantification.*
-- **Sigmoid Loss Geometry:**  Understanding the embedding space of SigLIP VLM and estimating its epistemic uncertainty.
+- [**Sigmoid Loss Geometry:**](https://github.com/y-sood/siglip_char)  Understanding the embedding space of SigLIP VLM and estimating its epistemic uncertainty.
 - [**Symmetric Tensor Diagonalisation:**](https://github.com/y-sood/symdiag/) Implementing a Jacobi-type method to diagonalise a symmetric tensor using compressed storage schemes.
 
 ---
